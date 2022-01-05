@@ -23,3 +23,11 @@ Não foi possivel implementar a validação de datas, e escolher o restaurante m
 ## Faltantes
 Devido alguns problemas pessoais, não tive tempo habil de atuar na api, peço desculpas, poderia ter feito algumas melhorias no codigo, mas como o tempo estava apertado não consegui.
 
+## Contato
+Para qualquer duvida segue meus ctts: 
+
+email: Lucianobuttarello@gmail.com
+whatsapp: 975383137
+
+
+
